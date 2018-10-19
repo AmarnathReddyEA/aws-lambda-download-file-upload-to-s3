@@ -7,7 +7,7 @@ AWL Lambda is a serveless service where you can run code without provisioning or
 You can read more in: https://aws.amazon.com/pt/lambda/
 
 ## Requirements
-Python 3.7 (tested in Windows) and AWS Lambda 3.6
+Python 3.7 (tested in Windows) and AWS Lambda Python 3.6
 
 
 ## How to use ?
